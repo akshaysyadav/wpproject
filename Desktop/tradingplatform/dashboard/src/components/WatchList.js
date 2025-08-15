@@ -159,6 +159,7 @@ const WatchListActions = ({ uid }) => {
         <Tooltip
           title="Analytics (A)"
           placement="top"
+          
           arrow
           TransitionComponent={Grow}
         >
